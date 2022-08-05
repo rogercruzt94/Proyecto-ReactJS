@@ -41,8 +41,11 @@ Ademas los productos al realizar la compra se descuentan del stock almacenado en
 ### Seguir los siguientes pasos:
 
 - Clonar el repositorio de GitHub:
+  ```bash
+  https://github.com/rogercruzt94/Proyecto-ReactJS.git
+  ```
 
-- Instalar las dependencias.
+- Instalar las dependencias en el directorio raiz del repositorio.
   ```bash
   npm install
   ```
