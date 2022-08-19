@@ -55,3 +55,9 @@ Ademas los productos al realizar la compra se descuentan del stock almacenado en
   ```bash
   npm run dev
   ```
+
+- Copiar y pegar el link en el navegador para visualizarlo.
+
+  ```bash
+  http://localhost:3000/
+  ```
