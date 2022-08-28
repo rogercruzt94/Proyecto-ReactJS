@@ -14,6 +14,9 @@ Se implementa React.js con React Router, React Hooks, Bootstrap (tanto común co
 
 Ademas los productos al realizar la compra se descuentan del stock almacenado en Firebase, actualizandose en tiempo real segun la cantidad vendida.
 
+**Preview de la pagina:**
+
+## ![](./src/assets/img/readme/gif-readme.gif)
 
 **Capturas de pantalla:**
 
